@@ -5,9 +5,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 At the root of my project use npm install in order to use API data.
 Use node commands to search databases:
 
-*node liri.js spotify-this-song "song name"
-*node liri.js concert-this "artist"
-*node liri.js movie-this "movie name"
+* node liri.js spotify-this-song "song name"
+* node liri.js concert-this "artist"
+* node liri.js movie-this "movie name"
 
 
 <img width="574" alt="screen shot 2018-12-13 at 2 03 07 pm" src="https://user-images.githubusercontent.com/39817046/50045677-d4e0bc00-005c-11e9-8fef-3d5e8aca43b5.png">
