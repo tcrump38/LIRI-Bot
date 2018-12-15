@@ -45,9 +45,9 @@ This returns :
   * Plot of the movie.
   * Actors in the movie.
   
-  Using 'node liri.js do-what-it-says' pulls this song title from a local random.txt file.
 <img width="571" alt="screen shot 2018-12-13 at 2 18 51 pm" src="https://user-images.githubusercontent.com/39817046/50045702-2be69100-005d-11e9-9538-dc17281582b4.png">
 
 <img width="572" alt="screen shot 2018-12-13 at 2 19 44 pm" src="https://user-images.githubusercontent.com/39817046/50045703-2be69100-005d-11e9-9ab9-91fd595d65db.png">
 
+  Using 'node liri.js do-what-it-says' pulls this song title from a local random.txt file.
 <img width="571" alt="screen shot 2018-12-13 at 2 20 24 pm" src="https://user-images.githubusercontent.com/39817046/50045704-2c7f2780-005d-11e9-9f6d-3444e900c3f6.png">
