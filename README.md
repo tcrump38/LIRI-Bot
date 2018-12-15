@@ -11,7 +11,8 @@ Use node commands to search databases:
 
 _Below is a workflow of the app:_
 
-Go to the root of the app:
+
+ Go to the root of the app:
 <img width="574" alt="screen shot 2018-12-13 at 2 03 07 pm" src="https://user-images.githubusercontent.com/39817046/50045677-d4e0bc00-005c-11e9-8fef-3d5e8aca43b5.png">
 
 Install npm in command line:
@@ -19,10 +20,10 @@ Install npm in command line:
 
 <img width="572" alt="screen shot 2018-12-13 at 2 05 46 pm" src="https://user-images.githubusercontent.com/39817046/50045687-fd68b600-005c-11e9-9d47-ae45bd38dddb.png">
 
-Use `node liri.js spotify-this-song` "song name" for spotify information.
+ Use `node liri.js spotify-this-song` "song name" for spotify information.
 <img width="572" alt="screen shot 2018-12-13 at 2 07 02 pm" src="https://user-images.githubusercontent.com/39817046/50045689-078ab480-005d-11e9-84ca-c06ab480a48a.png">
 
-This returns artist name, song name, preview link, and album name.
+ This returns artist name, song name, preview link, and album name.
 <img width="572" alt="screen shot 2018-12-13 at 2 07 38 pm" src="https://user-images.githubusercontent.com/39817046/50045690-0fe2ef80-005d-11e9-8a1e-d3881d458b0e.png">
 
 Use `node liri.js concert-this` "artist/band name" for bands in town information.
