@@ -14,7 +14,8 @@ _Below is a workflow of the app:_
 
 <img width="574" alt="screen shot 2018-12-13 at 2 03 07 pm" src="https://user-images.githubusercontent.com/39817046/50045677-d4e0bc00-005c-11e9-8fef-3d5e8aca43b5.png">
 
-Install npm in command line:<img width="571" alt="screen shot 2018-12-13 at 2 05 02 pm" src="https://user-images.githubusercontent.com/39817046/50045684-ef1a9a00-005c-11e9-9361-79fc88ea1df7.png">
+Install npm in command line:
+<img width="571" alt="screen shot 2018-12-13 at 2 05 02 pm" src="https://user-images.githubusercontent.com/39817046/50045684-ef1a9a00-005c-11e9-9361-79fc88ea1df7.png">
 
 <img width="572" alt="screen shot 2018-12-13 at 2 05 46 pm" src="https://user-images.githubusercontent.com/39817046/50045687-fd68b600-005c-11e9-9d47-ae45bd38dddb.png">
 
