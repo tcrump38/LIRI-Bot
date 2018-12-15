@@ -5,7 +5,7 @@
 At the root of my project use npm install in order to use API data.
 Use node commands to search databases:
 
-* node liri.js spotify-this-song "song name"
+* 'node liri.js spotify-this-song' "song name"
 * node liri.js concert-this "artist"
 * node liri.js movie-this "movie name"
 
