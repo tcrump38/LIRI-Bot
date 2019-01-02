@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amandamurillo/liri-node-app.git"
+    "url": "git+https://github.com/tcrump38/LIRI-Bot"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amandamurillo/liri-node-app/issues"
+    "url": "https://github.com/tcrump38/LIRI-Bot/issues"
   },
-  "homepage": "https://github.com/amandamurillo/liri-node-app#readme",
+  "homepage": "https://github.com/tcrump38/LIRI-Bot/blob/master/README.md",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.1.0",
